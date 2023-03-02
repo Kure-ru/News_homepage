@@ -195,7 +195,7 @@ button {
 
 @media (min-width: 650px) {
     body {
-        margin: 5%;
+        margin: 0 auto;
         display: grid;
         grid-template-columns: 6fr 3fr;
         grid-template-rows: 5rem 60% 30%;
@@ -228,6 +228,7 @@ button {
     .article {
         grid-area: article;
         display: flex;
+        padding-top: 20px;
     }
 
     .article__section {

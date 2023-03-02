@@ -263,7 +263,11 @@ button {
 }
 
 @media (min-width: 820px) {
-  header {
+  body {
+    padding: 90px 150px;
+  }
+  
+    header {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;

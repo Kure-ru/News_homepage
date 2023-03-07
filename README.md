@@ -55,7 +55,7 @@ I learned how to create a toggle menu with Javascript.
 /
 
 ### Useful resources
-
+- [How to Create a Slideshow with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/how-to-create-a-slideshow/)
 
 
 ## Author
